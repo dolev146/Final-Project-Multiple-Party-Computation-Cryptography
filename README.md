@@ -1,1 +1,1 @@
-# Final-Project-Multiple-Party-Computation-Cryptograpy
+# Final-Project-Multiple-Party-Computation-Cryptography
